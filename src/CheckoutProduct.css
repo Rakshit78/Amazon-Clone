@@ -1,0 +1,11 @@
+
+.checkoutproduct{
+    display: flex;
+    margin: 20px 0px;
+}
+.checkoutproduct_info{
+    padding-left: 20px;
+}
+.checkoutproduct_rating{
+    display: flex;
+}
